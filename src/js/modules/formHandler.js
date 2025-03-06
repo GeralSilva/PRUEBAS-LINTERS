@@ -1,10 +1,9 @@
 export default function setupformHandler() {
     const form = document.getElementById('survey-form');
-    const messageContainer = document.getElementById('massage-container');
+    const messageContainer = document.getElementById('message-container');
 
     form.addEventListener('submit' , (event) => {
         event.preventDefault();
-
 
         const name = document.getElementById('name').value;
         const email = document.getElementById('email').value;
