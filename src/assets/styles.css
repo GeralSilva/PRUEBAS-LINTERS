@@ -13,7 +13,7 @@ body {
     background-size: cover;
     z-index: -1;
     background-image:
-      linear-gradient(115deg, rgba(54, 178, 235, 0.5), rgba(9, 86, 228, 0.5)),
+      linear-gradient(115deg, rgba(31, 161, 222, 0.5), rgba(9, 86, 228, 0.5)),
       url(./mountain-9423779_1280.webp);
     background-repeat: no-repeat;
     background-position: center;
