@@ -32,6 +32,6 @@
   },
   "dependencies": {
     "express": "^4.21.2",
-    "serve":"^14.2.4"
+    "serve": "^14.2.4"
   }
 }
