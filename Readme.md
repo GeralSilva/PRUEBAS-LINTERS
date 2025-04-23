@@ -48,25 +48,17 @@
 <li> CSS </li>
 <li> Javascript </li>
 <li> Webpack </li>
-<li> Express </li>
-<li> REST API </li>
-<li> Babel </li>
 <li> Git </li>
-<li> Github actions </li>
-<li> Bash Script </li>
+<li> Git Actions </li>
+<li> Linters </li>
+<li> Azure </li>
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
 - *[HTML & CSS Best practices]*
 - *[Responsive Design]*
-- *[REST API]*
-- *[USER LIKES]*
-- *[USER COMMENTS]*
-- *[USER RESERVATIONS]*
 - *[Webpack Bundling ]*
-- *[Express Server to handle routing]*
-- *[Bash Script to automate deployment]*
 
 
 ### Series List:
@@ -82,31 +74,15 @@ Se obtiene la informacion y se llena en la base de datos donde se despliega la i
 
 <!-- LIVE DEMO -->
 
-### 🚀 Live Demo <a name="live-demo"></a>
-
-> 
-
-- [Live Demo Link](	https://google.com)
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-
-To get a local copy up and running, follow these steps.
-
 ### Prerequisites
 To run this project  you need the following tools:
+
 - [VS Code ]
 - [Git and GitHub ]
-- [Nodejs ]
-- [Express ]
-- [Bash Script ]
-- [Webpack Installation ]
-- [Nodejs ]
+- [linters ]
+- [Webpack ]
+- [Azure ]
+
 
 
 
@@ -202,22 +178,6 @@ sh
 
 
 
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-GERALDINE BASTO
-
-
-👤 *Author1*
-
-- GitHub: https://github.com/GeralSilva
-
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
@@ -230,15 +190,7 @@ GERALDINE BASTO
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/alyconr/TV-AMAZE-APP.git/issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
@@ -250,16 +202,3 @@ If you like this project please give  one start.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](LICENSE.md) licensed.
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
