@@ -29,11 +29,8 @@
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
 - [⭐ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+
 
 
 <!-- PROJECT DESCRIPTION -->
@@ -61,16 +58,6 @@
 - *[Webpack Bundling ]*
 
 
-### Series List:
-Se obtiene la informacion y se llena en la base de datos donde se despliega la informacion en un archivo. Para recopilar informacion bien organizada ofreciendo a los usuarios una experiencia de navegacion mas fluida.
-
-### Likes:
- Los usuarios pueden dejar su informacion de una manera mas rapida, permite a los usuarios interactuar con el formulario y llenarlo con datos personales basicos e informacion clave para su verificacion.
-
-### Comments Popup: 
- Permite a los usuarios participar de una manera mas interactiva, y compartir datos basicos para verificar.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
@@ -101,46 +88,49 @@ Install this project with:
 
 
 Webhint:
-sh
+
+```sh
      npm install --save-dev hint@7.x
+```
 
 Stylelint:
-sh
-     npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
 
+```sh
+     npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+```
 
 Eslint
-sh
+```sh
      npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x
-
+```
 Webpack
-sh
+```sh
      npm init -y
      npm install webpack webpack-cli --save-dev
-
+```
 
 Webpack Css loader
-sh
+```sh
      npm install --save-dev style-loader css-loader
-
+```
 Webpack html loader
-sh
+```sh
      npm install --save-dev html-loader
-
+```
 
 Webpack html plugin
-sh
+```sh
      npm install --save-dev html-webpack-plugin
-
+```
 
 Webpack dev server
-sh
+```sh
      npm install --save-dev webpack-dev-server
-
+```
 Babel Dependency loader
-sh
+```sh
      npm install --save-dev babel-loader
-
+```
 
 
 
@@ -148,15 +138,15 @@ sh
 
 To run locally run the following command:
 ## Development mode
-sh
+```sh
     npm run build-dev
-       
+```       
 
 ## Production mode
-sh
+```sh
     "build": "webpack --mode=production",
     "start": "node server.js"
-
+```
 
 
 ### Run tests
@@ -165,18 +155,34 @@ To run tests, run the following command:
 
 
 To test the Stylelint linter:
-sh
+```sh
     npx stylelint "**/*.{css,scss}"
-
+```
 To test the Webhint:
-sh
+```sh
     npx hint .
-
+```
 To test the ESLint linter:
-sh
+```sh
     npx eslint .
+```
 
 
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+GERALDINE BASTO
+
+
+👤 *Author1*
+
+- GitHub: https://github.com/GeralSilva
+
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
@@ -201,4 +207,5 @@ sh
 If you like this project please give  one start.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
